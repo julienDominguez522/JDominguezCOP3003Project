@@ -16,3 +16,14 @@ main code is neater and not as overloaded visually. I would like to eventually a
 get to the point to where my user can establish their own items, making this code more versatile.
 I am also still working on figuring out the JSON so I can begin storing the inventory information
 where needed.
+
+Project Reason
+The reason I wanted to do this project is because I have worked with these kind of systems before in 
+some of my jobs. I wanted to be able to replicate and perhaps improve the system that I used to work 
+with all the time at a previous employer. This will also give me an idea of what the structure of the
+system is like and what goes into making something like this. The inventory management system can be 
+used for a multitude of jobs and functions. I'm hoping to be able to make it versatile enough to reuse
+this system for a variety of places.
+
+Maintainers
+Julien Dominguez (https://github.com/julienDominguez522)
