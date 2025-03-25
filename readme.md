@@ -27,5 +27,4 @@ this system for a variety of places.
 
 Maintainers
 Julien Dominguez (https://github.com/julienDominguez522)
-
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10278/badge)](https://www.bestpractices.dev/projects/10278)
